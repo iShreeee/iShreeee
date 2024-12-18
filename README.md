@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @iShreeee
+- 👋 Hi, I’m Vighnesh
 - 👀 I’m interested in ...Many things but 
-- 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...well someone at the same level(Learning)
-- 📫 How to reach me ...vighneshhm7@gmail.com
+- 🌱 I’m currently learning ...Java
+- 📫 How to reach me ...vighneshhm@gmail.com
 
 
 <!---
